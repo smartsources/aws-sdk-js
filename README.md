@@ -1,5 +1,7 @@
 # AWS SDK for JavaScript
 
+[![Join the chat at https://gitter.im/smartsources/aws-sdk-js](https://badges.gitter.im/smartsources/aws-sdk-js.svg)](https://gitter.im/smartsources/aws-sdk-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM](https://nodei.co/npm/aws-sdk.svg?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/aws-sdk/)
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/aws/aws-sdk-js)
